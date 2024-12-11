@@ -122,6 +122,11 @@ This gives him +2 Strength, and +1 Constitution.  It also gives him medium size,
 Additionally, we can add some flavor to Goregutz based on his race.  Orcs (as per [*Volo's Guide to Monsters*]()) reach maturity at age 12 and can live up to 50 years.  Goregutz is a little over middle aged, so we can assume that he is around 35 years old.  Most orcs have the chaotic evil alignment.  Goregutz is like most orcs, but works as a mercenary.  He values getting paid more than simply "krumping" his enemies, so he is more of a chaotic neutral character.  While it may seem like he is tall, he is actually average among orcs, standing at around 7' 2" and weighing 250lbs.
 }}
 
+::
+
+### Class
+
+While races provide an important mechanical start, and flavorful background for your character.  The class is what you will be spending the most time with.  You can think of it as your character's job.  Are they a knight in shining armor?  They may be a paladin.  Are they a conniving thief?  They may be a rogue.  Do they raise the dead?  They might be a wizard.  It is important to research and decide what class you want to play, as it not only determines how you play the game, but also further builds your character's personality and aesthetics.  
 
 
 {{pageNumber 2}}
