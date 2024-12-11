@@ -214,7 +214,7 @@ If we were to pick a race for Goregutz, we could use the "Orc" race and "Mountai
 
 {{color:DarkGreen
 
-This gives him +2 Strength, and +1 Constitution.  It also gives him medium size, a movement speed of 30ft per turn, Darkvision, proficiency in the intimidation skill, the *"Relentless Endurance"* ability, the *"Savage Attacks"* ability, and the orcish language.
+This gives him +2 Strength (17), and +1 Constitution (15).  It also gives him medium size, a movement speed of 30ft per turn, Darkvision, proficiency in the intimidation skill, the *"Relentless Endurance"* ability, the *"Savage Attacks"* ability, and the orcish language.
 
 }}
 
@@ -255,10 +255,78 @@ Your class gives you what is called a "Hit Die."  It is primarily used for givin
 :
 
 {{color:DarkGreen
-For example: if we are setting up initial hitpoints for Goregutz.  We need to take into account his class and level.  To make things simple, we will say Goregutz is a level 1 Barbarian.  This means that his hit die is 1d12.  
+For example: if we are setting up initial hitpoints (HP) for Goregutz.  We need to take into account his class and level.  To make things simple, we will say Goregutz is a level 1 Barbarian.  This means that his hit die is 1d12.  At level 1 his HP is the maximum that a roll could be: 12 + CON modifer (modifier is another way of saying stat bonus).  This leaves Goregutz with 14 hitpoints.  Every level after this, Goregutz will have to roll his d12 for more maximum HP.
+}}
+
+\column
+
+Classes offer proficiencies in armor, weaponry, tools, saving throws, and a list of skills.  Wearing armor that you are not proficient in can result in severe penalties (disadvantage on all ability checks/saves/attack rolls that involve STR or DEX as well as the inability to cast spells).  All other proficiencies allow you to add your proficiency bonus to what was previously listed (attacks, tools, saves etc.) 
+
+:
+
+Starting equipment is unique to whatever class your character is.  Some Dungeon Masters may require that you spend gold on this equipment, however.
+
+{{color:DarkGreen
+As a Barbarian, Goregutz gets access to (a) a greataxe or (b) any martial melee weapon.  In proper orcy fashion, he picks a greataxe.  He additionally gets the choise of (a) two handaxes or (b) any simple weapon.  He opts to pick a club from the simple weapons table.  Finally he gets an explorer's pack and 4 javelins.
+}}
+
+:
+
+Finally, you gain access to all your abilities from leveling.  Even starting a class at level 1, means that you level up once, so you gain the level 1 abilities from your class's table.
+
+{{color:DarkGreen
+At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Barbarian Table.
+}}
+
+:
+
+*The Player's Handbook* Gives access to 12 classes.  However, expansion guides add many more classes as well as balance changes to some of the classes listed in *The Player's Handbook*.  The base classes are as follows:
+
+<!-- Class List Here!: -->
+{{coloredBullet
+{{coloredBulletLine
+- **Barbarian** - A fierce warrior of primitive background who can enter a battle rage
+}}
+{{coloredBulletLine
+- **Bard** - An inspiring magician whose power echoes the music of creation
+}}
+{{coloredBulletLine
+- **Cleric** - A priestly champion who wields divine magic in service of a higher power
+}}
+{{coloredBulletLine
+- **Druid** - A priest of the Old Faith, wielding the powers of nature--moonlight and plant growth, fire and lightning--and adopting animal forms
+}}
+{{coloredBulletLine
+- **Fighter** - A master of martial combat, skilled with a variety of weapons and armor
+}}
+{{coloredBulletLine
+- **Monk** - A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection
+}}
+{{coloredBulletLine
+- **Paladin** - A holy warrior bound to a sacred oath
+}}
 }}
 
 {{pageNumber 4}}
 {{footnote RACE CLASS & BACKGROUND}}
 
 \page
+
+{{coloredBullet
+{{coloredBulletLine
+- **Ranger** - A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization
+}}
+{{coloredBulletLine
+- **Rogue** - A scoundrel who uses stealth and trickery to overcome obstacles and enemies
+}}
+{{coloredBulletLine
+- **Sorcerer** - A spellcaster who draws on inherent magic from a gift or bloodline
+}}
+{{coloredBulletLine
+- **Warlock** - A wielder of magic that is derived from a bargain with an extraplanar entity
+}}
+{{coloredBulletLine
+- **Wizard** - A scholarly magic-user capable of manipulating the structures of reality
+}}
+}}
+
