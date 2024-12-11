@@ -332,7 +332,7 @@ At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Ba
 
 #### Weapons and Armor Tables:
 
-##### Simple Weapons Table:
+##### Simple Melee Weapons Table:
 
 | Weapon      | Cost | Damage         | Weight | Properties                            |
 |-------------|------|----------------|--------|---------------------------------------|
@@ -368,4 +368,45 @@ At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Ba
 |Sling          | 1 sp | 1d4 bludgeoning| ---    | Ammunition (range 30/120)                     |
 
 {{pageNumber 5}}
+{{footnote RACE CLASS & BACKGROUND}}
+
+\page
+
+##### Martial Melee Weapons Table
+
+| Weapon        | Cost | Damage         | Weight | Properties                                    |
+|---------------|------|----------------|--------|-----------------------------------------------|
+|Battleaxe      | 10 gp| 1d8 slashing   | 4lb    | Versatile (1d10)                              |
+|Flail          | 10 gp| 1d8 bludgeoning| 2lb    | ---                                           |
+|Glaive         | 20 gp| 1d10 slashing  | 6lb    | Heavy, reach, two-handed                      |
+|Greataxe       | 30 gp| 1d12 slashing  | 6lb    | Heavy, two-handed                             |
+|Greatsword     | 50 gp| 2d6 slashing   | 6lb    | Heavy, two-handed                             |
+|Halberd        | 20 gp| 1d10 slashing  | 6lb    | Heavy, reach, two-handed                      |
+|Lance          | 10 gp| 1d12 piercing  | 6lb    | Reach, special                                |
+|Longsword      | 15 gp| 1d8 slashing   | 3lb    | Versatile (1d10)                              |
+|Maul           | 10 gp| 2d6 bludgeoning| 10lb   | Heavy, two-handed                             |
+|Morningstar    | 15 gp| 1d8 piercing   | 4lb    | ---                                           |
+|Pike           | 5 gp | 1d10 piercing  | 18lb   | Heavy, reach, two-handed                      |
+|Rapier         | 25 gp| 1d8 piercing   | 2lb    | Finesse                                       |
+|Scimitar       | 25 gp| 1d6 slashing   | 3lb    | Finesse, light                                |
+|Shortsword     | 10 gp| 1d6 piercing   | 2lb    | Finesse, light                                |
+|Trident        | 5 gp | 1d6 piercing   | 4lb    | Thrown (range 20/60), versatile (1d8)         |
+|War pick       | 5 gp | 1d8 piercing   | 2lb    | ---                                           |
+|Warhammer      | 15 gp| 1d8 bludgeoning| 2lb    | Versatile (1d10)                              |
+|Whip           | 2 gp | 1d4 slashing   | 3lb    | Finesse, reach                                |
+
+\column
+
+##### Martial Ranged Weapons Table
+
+
+| Weapon        | Cost | Damage         | Weight | Properties                                            |
+|---------------|------|----------------|--------|-------------------------------------------------------|
+|Blowgun        | 10 gp| 1 piercing     | 1lb    | Ammunition (range 25/100), loading                    |
+|Crossbow, hand | 75 gp| 1d6 piercing   | 3lb    | Ammunition (range 30/12), light, loading              |
+|Crossbow, heavy| 50 gp| 1d10 piercing  | 18lb   | Ammunition (range 100/400), heavy, loading, two-handed|
+|Longbow        | 50 gp| 1d8 piercing   | 2lb    | Ammunition (range 150/600), heavy, two-handed         |
+|Net            | 1 gp | ---            | 3lb    | Special, thrown (range 5/15)                          |
+
+{{pageNumber 6}}
 {{footnote RACE CLASS & BACKGROUND}}
