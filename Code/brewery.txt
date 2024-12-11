@@ -408,5 +408,63 @@ At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Ba
 |Longbow        | 50 gp| 1d8 piercing   | 2lb    | Ammunition (range 150/600), heavy, two-handed         |
 |Net            | 1 gp | ---            | 3lb    | Special, thrown (range 5/15)                          |
 
+:
+
+###
+
+:
+
+##### Light Armor Table
+
+| Armor          | Cost | Armor Class (AC) | Strength | Stealth | Weight|
+|----------------|------|------------------|----------|---------|-------|
+|Padded          |5 gp  |11 + DEX MOD      | ---      | Disad.  | 8lb   |
+|Leather         |10 gp |11 + DEX MOD      | ---      | ---     | 10lb  |
+|Studded Leather |45 gp |12 + DEX MOD      | ---      | ---     | 13lb  |
+
+:
+
+###
+
+:
+
+##### Medium Armor Table
+
+| Armor          | Cost | Armor Class (AC)   | Strength | Stealth | Weight|
+|----------------|------|--------------------|----------|---------|-------|
+|Hide            |10 gp |12 + DEX MOD (max 2)| ---      | ---     | 12lb  |
+|Chain shirt     |50 gp |13 + DEX MOD (max 2)| ---      | ---     | 20lb  |
+|Scale mail      |50 gp |14 + DEX MOD (max 2)| ---      | Disad.  | 45lb  |
+|Breastplate     |400 gp|14 + DEX MOD (max 2)| ---      | ---     | 20lb  |
+|Half plate      |750 gp|15 + DEX MOD (max 2)| ---      | Disad.  | 40lb  |
+
+:
+
+###
+
+:
+
+##### Heavy Armor Table
+
+| Armor          | Cost  | Armor Class (AC)   | Strength | Stealth | Weight|
+|----------------|-------|--------------------|----------|---------|-------|
+|Ring mail       |30 gp  |14                  | ---      | Disad.  | 40lb  |
+|Chain mail      |75 gp  |16                  | STR 13   | Disad.  | 55lb  |
+|Splint          |500 gp |17                  | STR 15   | Disad.  | 60lb  |
+|Plate           |1500 gp|18                  | STR 15   | Disad.  | 65lb  |
+
+:
+
+###
+
+:
+
+##### Shield Table
+
+| Armor          | Cost  | Armor Class (AC)   | Strength | Stealth | Weight|
+|----------------|-------|--------------------|----------|---------|-------|
+|Any shield      |10 gp  |+2                  | ---      | ---     | 6lb   |
+
+
 {{pageNumber 6}}
 {{footnote RACE CLASS & BACKGROUND}}
