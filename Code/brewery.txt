@@ -32,6 +32,113 @@ Before creating or playing D&D 5th edition, you will need some materials.  This 
 This guide not only lays out the steps to making characters in 5th edition, but provides examples.  These examples take form in a character we will create together, an orc barbarian known as Goregutz Teefgrabba, or Goregutz for short.  Don't worry if you don't completely follow everything in his examples.  A sample character sheet will be provided at the end.
 }}
 
+{{pageNumber 1}}
+{{footnote ABRIDGED CHARACTER CREATION | THE CHARACTER SHEET}}
+
+::
+
+## The Character Sheet
+###
+:
+
+Before we get started with any major character building we need to familiarize ourselves with the character sheet, as well as how to roll for stats.  We will start by going over ability scores and how to roll for them.  Afterwards we will move onto other important terms and regions on the character sheet.  If an area is not described in this guide, it is most likely an aesthetic field that is up to your imagination, or something that will be explained later on.
+
+:
+
+### Ability Scores
+
+:
+
+These are what we can consider your core abilities.  They affect many other stats on the sheet and determine much of what your character is capable of.  It can be helpful to think about these stats in terms of interacting with a tomato in the event that you ever get confused with what they mean.
+
+\page
+
+<!-- Ability Scores go here -->
+{{coloredBullet
+{{coloredBulletLine
+- **Strength (STR) -** How hard you can squeeze a tomato 
+}}
+{{coloredBulletLine
+- **Dexterity (DEX) -** How fast and accurately you can throw a tomato
+}}
+{{coloredBulletLine
+- **Constitution (CON) -** How many bad tomatoes you can eat
+}}
+{{coloredBulletLine
+- **Intelligence (INT) -** How you know a tomato is a fruit
+}}
+{{coloredBulletLine
+- **Wisdom (WIS) -** How not to include tomato in a fruit-based salad
+}}
+{{coloredBulletLine
+- **Charisma (CHA) -** How to sell a tomato based fruit salad to someone
+}}
+}}
+
+:
+
+There are 2 popular methods of determining ability scores of a character: rolling for stats, and using [point buy](https://chicken-dinner.com/5e/5e-point-buy.html).  To roll for stats, roll 4d6 dice per stat, drop the lowest number and optionally reroll 1s.
+
+{{color:DarkGreen
+For example: if we were to roll stats for Goregutz, we would roll 4d6 dice 6 times.  For the first roll, we get 1 + 2 + 6 + 2.  We are playing with the reroll 1s rule, so that 1 got rerolled to a 5.  We also drop the 2 since that is the lowest dice roll.  This leaves us with 13, not bad.  We do this 5 more times and end up with the following stat rolls 13, 13, 14, 11, 15, and 11.  We can then choose to allocate these stats to whatever ability scores we choose.  Goregutz will have a 15 in STR, a 14 in CON, a 13 in DEX, a 11 in CHA, an 11 in INT and an 11 in CHA.
+}}
+
+::
+
+
+### Saving Throws
+
+:
+
+Sometimes the Dungeon Master will ask you to roll what is called a "Saving Throw."  This is a check to see how likely your character will succeed in a certain scenario.  For example, if a character is trying to dodge a fireball, they may have to make a Dexterity Saving throw.
+
+:
+
+Saving throws are calculated by taking an ability score, subtracting 10, dividing what is left by 2, and rounding down.  This result is known as a **stat bonus.**  Should a character be proficient in a skill, by any means, their saving throw will increase by their proficiency score, which is determined by their highest class level.
+
+{{color:DarkGreen
+In the previous example Goregutz had a STR score of 15.  To calculate his STR saving throw: we would subtract 10 leaving us with 5.  We would then divide 5  by 2, leaving us with 2.5.  Finally we would round down, leaving us with 2.  This means that with Goregutz's STR of 15, he would have a **STR bonus** of +2.  This STR bonus is also his saving throw.  Should Goregutz be proficient in strength saves, he would gain an additional +2 from his proficiency bonus to that save.
+}}
+
+### Skills
+
+:
+
+Skills are minor stats belonging to your character.  They include skills like Athletics, Perception, and Sleight of Hand.  They are usually used in minor roleplay scenarios, but some skills may come up in more dire circumstances.  When calculating a skill's bonus, notice the abbreviated ability scores next to them.  This will tell you which of the core stats influence that skill.  You would then calculate that skill, the same way that you would a saving throw.  However, you must have proficiency in that skill to gain any additional bonuses to it.  Proficiency in a saving throw will not influence the skill!
+
+:
+
+{{color:DarkGreen
+For example: to determine Goregutz's Perception skill, we need to know his **WIS bonus**, which we could calculate the same way as before: by subtracting 10 from his WIS score, dividing by 2, and dropping the decimal point.  This means that goregutz's WIS bonus is +1, which would be his perception skill.  Should Goregutz be proficient in Perception (not WIS saves), he would gain an additional +2 from his proficiency bonus.
+}}
+
+:
+
+{{thinLine
+Note: Unlike Saving throws, characters can go beyond proficiency in a skill, and gain what is called: "Expertise."  Should a character gain expertise in a skill, by any means.  They would gain double their proficiency bonus.
+}}
+
+
+![Tomato](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/tomatomasked.png) {width:300px,mix-blend-mode:multiply}
+
+{{artist,bottom:95px,text-align:left
+##### Ripe Tomato
+[Jessica Richter](https://jessica-richter.com/products/tomato-oil-painting-original-art-4-x4)
+}}
+
+
+{{pageNumber 2}}
+{{footnote THE CHARACTER SHEET}}
+
+\page
+
+![Campfire](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/campfiremasked.png) {width:300px,mix-blend-mode:multiply}
+
+{{artist,top:340px,text-align:left
+##### Unique Gathering Of Heroes
+[peculiararmful](https://us.idyllic.app/gen/midnight-rites-139230?highlighted=484397)
+}}
+
 ::
 
 ###
@@ -59,90 +166,6 @@ The first step to character creation is choosing a race.  Races provide both mec
 - **Additional Mechanics:** Races may come with other abilities not described in the previous bullets.
 }}
 }}
-
-{{pageNumber 1}}
-{{footnote ABRIDGED CHARACTER CREATION | RACE CLASS & BACKGROUND}}
-
-\page
-## The Character Sheet
-###
-:
-
-Before we get started with any major character building we need to familiarize ourselves with the character sheet, as well as how to roll for stats.  We will start by going over ability scores and how to roll for them.  Afterwards we will move onto other important terms and regions on the character sheet.  If an area is not described in this guide, it is most likely an aesthetic field that is up to your imagination, or something that will be explained later on.
-
-:
-
-### Ability Scores
-
-:
-
-These are what we can consider your core abilities.  They affect many other stats on the sheet and determine much of what your character is capable of.  It can be helpful to think about these stats in terms of interacting with a tomato in the event that you ever get confused with what they mean.
-
-<!-- Ability Scores go here -->
-{{coloredBullet
-{{coloredBulletLine
-- **Strength (STR) -** How hard you can squeeze a tomato 
-}}
-{{coloredBulletLine
-- **Dexterity (DEX) -** How fast and accurately you can throw a tomato
-}}
-{{coloredBulletLine
-- **Constitution (CON) -** How many bad tomatoes you can eat
-}}
-{{coloredBulletLine
-- **Intelligence (INT) -** How you know a tomato is a fruit
-}}
-{{coloredBulletLine
-- **Wisdom (WIS) -** How not to include tomato in a fruit-based salad
-}}
-{{coloredBulletLine
-- **Charisma (CHA) -** How to sell a tomato based fruit salad to someone
-}}
-}}
-
-:
-
-There are 2 popular methods of determining ability scores of a character: rolling for stats, and using point buy.  To roll for stats, roll 4d6 dice per stat, drop the lowest number and optionally reroll 1s.
-
-{{color:DarkGreen
-For example: if we were to roll stats for Goregutz, we would roll 4d6 dice 6 times.  For the first roll, we get 1 + 2 + 6 + 2.  We are playing with the reroll 1s rule, so that 1 got rerolled to a 5.  We also drop the 2 since that is the lowest dice roll.  This leaves us with 13, not bad.  We do this 5 more times and end up with the following stat rolls 13, 13, 14, 11, 15, and 11.  We can then choose to allocate these stats to whatever ability scores we choose.  Goregutz will have a 15 in STR, a 14 in CON, a 13 in DEX, a 11 in CHA, an 11 in INT and an 11 in CHA.
-}}
-
-::
-
-
-### Saving Throws
-
-:
-
-Sometimes the Dungeon Master will ask you to roll what is called a "Saving Throw."  This is a check to see how likely your character will succeed in a certain scenario.  For example, if a character is trying to dodge a fireball, they may have to make a Dexterity Saving throw.
-
-:
-
-Saving throws are calculated by taking an ability score, subtracting 10, dividing what is left by 2, and rounding down.
-
-{{color:DarkGreen
-In the previous example Goregutz had a STR score of 15.  To calculate his STR saving throw: we would subtract 10 leaving us with 5.  We would then divide 5  by 2, leaving us with 2.5.  Finally we would round down, leaving us with 2.  This means that with Goregutz's STR of 15, he would have a saving throw of +2.
-}}
-
-![Tomato](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/tomatomasked.png) {width:375px,mix-blend-mode:multiply}
-
-{{artist,bottom:325px,text-align:left
-##### Ripe Tomato
-[Jessica Richter](https://jessica-richter.com/products/tomato-oil-painting-original-art-4-x4)
-}}
-
-{{pageNumber 2}}
-{{footnote THE CHARACTER SHEET}}
-
-\page
-![Campfire](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/campfiremasked.png) {width:300px,mix-blend-mode:multiply}
-
-{{artist,top:340px,text-align:left
-##### Unique Gathering Of Heroes
-[peculiararmful](https://us.idyllic.app/gen/midnight-rites-139230?highlighted=484397)
-}}
-
 ::
 
 Unless you are playing a mechanically focused game, a character's flavor is just as important.  Races provide various descriptions as well as aesthetic stats.  The more aesthetic stats are as follows:
@@ -182,15 +205,29 @@ Many races also have **subraces** to consider when creating your character.  Sub
 :
 
 {{color:DarkGreen 
+
 If we were to pick a race for Goregutz, we could use the "Orc" race and "Mountain Orc" subrace, from [*Volo's Complete Subrace Handbook*](https://github.com/Yamz64/CharacterCreationGuide/blob/main/Handbooks/Volo's%20Complete%20Subrace%20Handbook.pdf).  But to keep things consistent with using base *Player's Handbook* material, we will use the "Half-Orc" race.  
 
+}}
+
 :
+
+{{color:DarkGreen
 
 This gives him +2 Strength, and +1 Constitution.  It also gives him medium size, a movement speed of 30ft per turn, Darkvision, proficiency in the intimidation skill, the *"Relentless Endurance"* ability, the *"Savage Attacks"* ability, and the orcish language.
 
+}}
+
 :
 
+{{pageNumber 3}}
+{{footnote RACE, CLASS, & BACKGROUND}}
+\page
+
+{{color:DarkGreen
+
 Additionally, we can add some flavor to Goregutz based on his race.  Orcs (as per [*Volo's Guide to Monsters*](https://github.com/Yamz64/CharacterCreationGuide/blob/main/Handbooks/Volo's%20Guide%20to%20Monsters.pdf)) reach maturity at age 12 and can live up to 50 years.  Goregutz is a little over middle aged, so we can assume that he is around 35 years old.  Most orcs have the chaotic evil alignment.  Goregutz is like most orcs, but works as a mercenary.  He values getting paid more than simply "krumping" his enemies, so he is more of a chaotic neutral character.  While it may seem like he is tall, he is actually average among orcs, standing at around 7' 2" and weighing 250lbs.
+
 }}
 
 ::
@@ -213,11 +250,6 @@ When applying stats and bonuses from your class, it is oftentimes helpful to bre
 {{coloredBulletLine 4. Add any bonuses/abilities from leveling up}}
 }}
 
-{{pageNumber 2}}
-{{footnote RACE CLASS & BACKGROUND}}
-
-\page
-
 Your class gives you what is called a "Hit Die."  It is primarily used for giving you hitpoints based on your level, but may be used for other things in the game.  Whenever you level up, you roll your hit die and add your constitution modifier to the roll.  Whatever the result is, is what you increase your maximum HP by.  At level 1, you simply get the maximum possible HP from a hit die roll.
 
 :
@@ -226,5 +258,7 @@ Your class gives you what is called a "Hit Die."  It is primarily used for givin
 For example: if we are setting up initial hitpoints for Goregutz.  We need to take into account his class and level.  To make things simple, we will say Goregutz is a level 1 Barbarian.  This means that his hit die is 1d12.  
 }}
 
-{{pageNumber 3}}
+{{pageNumber 4}}
 {{footnote RACE CLASS & BACKGROUND}}
+
+\page
