@@ -21,20 +21,24 @@ Before creating or playing D&D 5th edition, you will need some materials.  This 
 
 ![Goregutz](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/orkmasked.png) {width:300px,mix-blend-mode:multiply}
 
-{{artist,top:325px
+{{artist,top:325px,text-align:left
 ##### Goregutz
 [GetsugaDante](https://www.deviantart.com/getsugadante/art/Warhammer-Fantasy-Orc-Big-Un-590547749)
 }}
 
- ::
- 
-This guide not only lays out the steps to making characters in 5th edition, but provides examples.  These examples take form in a character we will create together, an orc barbarian known as Goregutz Teefsmasha, or Goregutz for short.
+::
+
+{{color:DarkGreen 
+This guide not only lays out the steps to making characters in 5th edition, but provides examples.  These examples take form in a character we will create together, an orc barbarian known as Goregutz Teefgrabba, or Goregutz for short.  Don't worry if you don't completely follow everything in his examples.  A sample character sheet will be provided at the end.
+}}
 
 ::
 
 ###
 
-## Race Class & Background
+## Race, Class, & Background
+
+### Race
 
 :
 
@@ -51,12 +55,24 @@ The first step to character creation is choosing a race.  Races provide both mec
 {{coloredBulletLine
 - **Speed:** Most races have a walkspeed of 30ft per turn.  While races in the *Player's Handbook,* can have less speed.  Races in some of the expansions can have more. 
 }}
+{{coloredBulletLine
+- **Additional Mechanics:** Races may come with other abilities not described in the previous bullets.
+}}
 }}
 
 {{pageNumber 1}}
 {{footnote ABRIDGED CHARACTER CREATION}}
 
 \page
+
+![Campfire](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/campfiremasked.png) {width:300px,mix-blend-mode:multiply}
+
+{{artist,top:340px,text-align:left
+##### Unique Gathering Of Heroes
+[peculiararmful](https://us.idyllic.app/gen/midnight-rites-139230?highlighted=484397)
+}}
+
+::
 
 Unless you are playing a mechanically focused game, a character's flavor is just as important.  Races provide various descriptions as well as aesthetic stats.  The more aesthetic stats are as follows:
 
@@ -91,6 +107,22 @@ The following races are included in the *Player's Handbook* (please note that th
 :
 
 Many races also have **subraces** to consider when creating your character.  Subraces may have additional ability score increases, abilities, or other bonuses that get added on top of the parent race's. If the race you picked has multiple subraces, you must also pick one of them.
+
+:
+
+{{color:DarkGreen 
+If we were to pick a race for Goregutz, we could use the "Orc" race and "Mountain Orc" subrace, from [*Volo's Complete Subrace Handbook*]().  But to keep things consistent with using base *Player's Handbook* material, we will use the "Half-Orc" race.  
+
+:
+
+This gives him +2 Strength, and +1 Constitution.  It also gives him medium size, a movement speed of 30ft per turn, Darkvision, proficiency in the intimidation skill, the *"Relentless Endurance"* ability, the *"Savage Attacks"* ability, and the orcish language.
+
+:
+
+Additionally, we can add some flavor to Goregutz based on his race.  Orcs (as per [*Volo's Guide to Monsters*]()) reach maturity at age 12 and can live up to 50 years.  Goregutz is a little over middle aged, so we can assume that he is around 35 years old.  Most orcs have the chaotic evil alignment.  Goregutz is like most orcs, but works as a mercenary.  He values getting paid more than simply "krumping" his enemies, so he is more of a chaotic neutral character.  While it may seem like he is tall, he is actually average among orcs, standing at around 7' 2" and weighing 250lbs.
+}}
+
+
 
 {{pageNumber 2}}
 {{footnote RACE CLASS & BACKGROUND}}
