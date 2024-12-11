@@ -1,5 +1,5 @@
 # Abridged Character Creation
-This is a quick guide to character creation for dungeons and dragons 5th addition!  While most every edition has it's benefits and drawbacks, 5th edition's strength is the ease of use and speed of generating content.  Please note that this guide is a quick and dirty way to set up characters, but not definitive.  All information found here is available in the *2014 Player's Handbook*.  Some classes or races may not be included here or in the handbook, but are found in expansion guides, such as *Tasha's Cauldron of Everything*, or *Volo's Complete Subrace Handbook*.  If you find something that you would like to use for your character that isn't included in the core rulebooks, bring it up with your DM!
+This is a quick guide to character creation for dungeons and dragons 5th addition!  While most every edition has it's benefits and drawbacks, 5th edition's strength is the ease of use and speed of generating content.  Please note that this guide is a quick and dirty way to set up characters, but not definitive.  All information found here is available in the [*2014 Player's Handbook*]().  Some classes or races may not be included here or in the handbook, but are found in expansion guides, such as *Tasha's Cauldron of Everything*, or *Volo's Complete Subrace Handbook*.  If you find something that you would like to use for your character that isn't included in the core rulebooks, bring it up with your DM!
 
 ## Goregutz and Materials
 ![Materials](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/dice.png) {width:300px,mix-blend-mode:multiply}
@@ -30,6 +30,67 @@ Before creating or playing D&D 5th edition, you will need some materials.  This 
  
 This guide not only lays out the steps to making characters in 5th edition, but provides examples.  These examples take form in a character we will create together, an orc barbarian known as Goregutz Teefsmasha, or Goregutz for short.
 
+::
+
+###
+
+## Race Class & Background
+
+:
+
+The first step to character creation is choosing a race.  Races provide both mechanical advantages, and aesthetic quirks (for short, we call these quirks "flavor").  Races often provide the following mechanics:
+
+<!-- Race Mechanics List Goes Here: -->
+{{coloredBullet
+{{coloredBulletLine
+- **Ability Score Increase:** Every race has bonuses to stats.  Usually this comes in the form of +2 to one stat, and +1 to another stat.  Some races in some of the expansion guides have negatives to their stats.
+}}
+{{coloredBulletLine
+- **Size:** Every race has a size associated with them.  While most races are "medium" sized, they can be smaller- down to size "tiny."
+}}
+{{coloredBulletLine
+- **Speed:** Most races have a walkspeed of 30ft per turn.  While races in the *Player's Handbook,* can have less speed.  Races in some of the expansions can have more. 
+}}
+}}
+
 {{pageNumber 1}}
 {{footnote ABRIDGED CHARACTER CREATION}}
 
+\page
+
+Unless you are playing a mechanically focused game, a character's flavor is just as important.  Races provide various descriptions as well as aesthetic stats.  The more aesthetic stats are as follows:
+
+<!-- Race Aesthetics List Goes Here: -->
+{{coloredBullet
+{{coloredBulletLine
+- **Age:** Different races live for different timespans.  Some die relatively young, and some live to become ancient beings.  When thinking of a character's age, it may be helpful to take into account what stage of life they are in.  Are they old?  Are they young?
+}}
+{{coloredBulletLine
+- **Alignment:** Some races are more inclined to a specific alignment.  While you do not have to follow this when creating your character.  It is still important to keep in mind as it may affect how others perceive your character ingame.
+}}
+{{coloredBulletLine
+- **Languages:** Many races have their own languages.  Being a part of a race allows you to learn that language.  Depending on the setting, this may affect who you can converse with.
+}}
+}}
+
+The following races are included in the *Player's Handbook* (please note that the expansion books may contain additional races, subraces, and balancing changes):
+
+<!-- Race List Here: -->
+{{coloredBullet
+- Dwarf
+- Elf
+- Halfling
+- Human
+- Dragonborn
+- Gnome
+- Half-Elf
+- Half-Orc
+- Tiefling
+}}
+
+:
+
+Many races also have **subraces** to consider when creating your character.  Subraces may have additional ability score increases, abilities, or other bonuses that get added on top of the parent race's. If the race you picked has multiple subraces, you must also pick one of them.
+
+{{pageNumber 2}}
+{{footnote RACE CLASS & BACKGROUND}}
