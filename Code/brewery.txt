@@ -1,0 +1,35 @@
+# Abridged Character Creation
+This is a quick guide to character creation for dungeons and dragons 5th addition!  While most every edition has it's benefits and drawbacks, 5th edition's strength is the ease of use and speed of generating content.  Please note that this guide is a quick and dirty way to set up characters, but not definitive.  All information found here is available in the *2014 Player's Handbook*.  Some classes or races may not be included here or in the handbook, but are found in expansion guides, such as *Tasha's Cauldron of Everything*, or *Volo's Complete Subrace Handbook*.  If you find something that you would like to use for your character that isn't included in the core rulebooks, bring it up with your DM!
+
+## Goregutz and Materials
+![Materials](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/dice.png) {width:300px,mix-blend-mode:multiply}
+
+###
+Before creating or playing D&D 5th edition, you will need some materials.  This includes but is not limited to the following items:
+
+<!-- Material Bullet List Here: -->
+{{coloredBullet 
+ {{coloredBulletLine
+   - A full set of playing dice.  This includes d4, d6, d8, d10, d12, and d20 dice.  Where the number denotes the amount of sides to the dice.  While this can be handled using an app on your phone or in your browser, it is fun to roll physical dice!
+}}
+  {{coloredBulletLine
+   - A character sheet.  This could be an excel sheet, an online character sheet, the classic [pdf](https://media.wizards.com/2022/dnd/downloads/DnD_5E_CharacterSheet_FormFillable.pdf) included with the *Player's Handbook*, or good old fashioned pencil and paper.
+  }}
+}}
+
+\column
+
+![Goregutz](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/orkmasked.png) {width:300px,mix-blend-mode:multiply}
+
+{{artist,top:325px
+##### Goregutz
+[GetsugaDante](https://www.deviantart.com/getsugadante/art/Warhammer-Fantasy-Orc-Big-Un-590547749)
+}}
+
+ ::
+ 
+This guide not only lays out the steps to making characters in 5th edition, but provides examples.  These examples take form in a character we will create together, an orc barbarian known as Goregutz Teefsmasha, or Goregutz for short.
+
+{{pageNumber 1}}
+{{footnote ABRIDGED CHARACTER CREATION}}
+

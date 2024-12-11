@@ -1,0 +1,16 @@
+/*=======---  Example CSS styling  ---=======*/
+/* Any CSS here will apply to your document! */
+
+.myExampleClass {
+	color: black;
+}
+
+.coloredBullet{
+  color: #7b433a;
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+.coloredBulletLine{
+  margin-bottom: 7px;
+}
