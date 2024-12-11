@@ -349,7 +349,7 @@ At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Ba
 
 \column
 
-![Campfire](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/weaponrack.jpg) {width:300px,mix-blend-mode:multiply}
+![Weapon Rack](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/weaponrack.jpg) {width:300px,mix-blend-mode:multiply}
 
 {{artist,top:30px,right:90px,text-align:right
 ##### weapon rack - RPG Stock Art
@@ -394,6 +394,13 @@ At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Ba
 |War pick       | 5 gp | 1d8 piercing   | 2lb    | ---                                           |
 |Warhammer      | 15 gp| 1d8 bludgeoning| 2lb    | Versatile (1d10)                              |
 |Whip           | 2 gp | 1d4 slashing   | 3lb    | Finesse, reach                                |
+
+![Helmet](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/sallethelmet.jpg) {width:200px,mix-blend-mode:multiply}
+
+{{artist,bottom:130px,left:75px,text-align:left
+##### Double Visored Sallet
+[Wendelin Boeheim](https://www.alamy.com/stock-photo-double-visored-sallet-by-wendelin-boeheim-139778486.html)
+}}
 
 \column
 
