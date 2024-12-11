@@ -349,7 +349,14 @@ At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Ba
 
 \column
 
+![Campfire](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/Images/weaponrack.jpg) {width:300px,mix-blend-mode:multiply}
 
+{{artist,top:30px,right:90px,text-align:right
+##### weapon rack - RPG Stock Art
+[Dean Spencer](https://www.drivethrurpg.com/en/product/381407/filler-spot-items-weapon-rack-rpg-stock-art)
+}}
+
+:::
 
 ##### Simple Ranged Weapons Table:
 
@@ -360,3 +367,5 @@ At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Ba
 |Shortbow       | 25 gp| 1d6 piercing   | 2lb    | Ammunition (range 80/320), two-handed         |
 |Sling          | 1 sp | 1d4 bludgeoning| ---    | Ammunition (range 30/120)                     |
 
+{{pageNumber 5}}
+{{footnote RACE CLASS & BACKGROUND}}
