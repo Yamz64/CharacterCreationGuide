@@ -49,7 +49,7 @@ Before we get started with any major character building we need to familiarize o
 
 :
 
-These are what we can consider your core abilities.  They affect many other stats on the sheet and determine much of what your character is capable of.  It can be helpful to think about these stats in terms of interacting with a tomato in the event that you ever get confused with what they mean.
+These are what we can consider your core stats.  They affect many other stats on the sheet and determine much of what your character is capable of.  It can be helpful to think about these stats in terms of interacting with a tomato in the event that you ever get confused with what they mean.
 
 \page
 
@@ -80,7 +80,7 @@ These are what we can consider your core abilities.  They affect many other stat
 There are 2 popular methods of determining ability scores of a character: rolling for stats, and using [point buy](https://chicken-dinner.com/5e/5e-point-buy.html).  To roll for stats, roll 4d6 dice per stat, drop the lowest number and optionally reroll 1s.
 
 {{color:DarkGreen
-For example: if we were to roll stats for Goregutz, we would roll 4d6 dice 6 times.  For the first roll, we get 1 + 2 + 6 + 2.  We are playing with the reroll 1s rule, so that 1 got rerolled to a 5.  We also drop the 2 since that is the lowest dice roll.  This leaves us with 13, not bad.  We do this 5 more times and end up with the following stat rolls 13, 13, 14, 11, 15, and 11.  We can then choose to allocate these stats to whatever ability scores we choose.  Goregutz will have a 15 in STR, a 14 in CON, a 13 in DEX, a 11 in CHA, an 11 in INT and an 11 in CHA.
+For example: if we were to roll stats for Goregutz, we would roll 4d6 dice 6 times.  For the first roll, we get 1 + 2 + 6 + 2.  We are playing with the reroll 1s rule, so that 1 got rerolled to a 5.  We also drop the 2 since that is the lowest dice roll.  This leaves us with 13, not bad.  We do this 5 more times and end up with the following stat rolls 13, 13, 14, 11, 15, and 11.  We can then choose to allocate these stats to whatever ability scores we choose.  Goregutz will have a 15 in STR, a 14 in CON, a 13 in DEX, a 13 in WIS, an 11 in INT and an 11 in CHA.
 }}
 
 ::
@@ -109,7 +109,7 @@ Skills are minor stats belonging to your character.  They include skills like At
 :
 
 {{color:DarkGreen
-For example: to determine Goregutz's Perception skill, we need to know his **WIS bonus**, which we could calculate the same way as before: by subtracting 10 from his WIS score, dividing by 2, and dropping the decimal point.  This means that goregutz's WIS bonus is +1, which would be his perception skill.  Should Goregutz be proficient in Perception (not WIS saves), he would gain an additional +2 from his proficiency bonus.
+For example: to determine Goregutz's Perception skill, we need to know his **WIS bonus**, which we could calculate the same way as before: by subtracting 10 from his WIS score, dividing by 2, and dropping the decimal point.  This means that Goregutz's WIS bonus is +1, which would be his perception skill.  Should Goregutz be proficient in Perception (not WIS saves), he would gain an additional +2 from his proficiency bonus.
 }}
 
 :
@@ -475,3 +475,23 @@ At level 1, Goregutz gains access to "Rage", and "Unarmored Defense" from the Ba
 
 {{pageNumber 6}}
 {{footnote RACE CLASS & BACKGROUND}}
+
+\page
+
+### Background
+
+:
+
+The final step of creating a character is choosing a background.  A background is the title your character is given based on their life prior to becoming an adventurer. All backgrounds will give you additional skill proficiencies, but vary widely in additional bonuses they can give.  Some will give you items, languages, social bonuses, or even feats.  Backgrounds may even come with tables to help you decide personality traits when designing your character.  Much of what is provided is optional; and it is up to you to pick whatever background that suits your character.
+
+:
+
+{{color:DarkGreen
+Goregutz was a mercenary, so it makes most sense to pick the "Mercenary Veteran" background from the [Sword Coast Adventurer's Guide]().  This provides Goregutz with skill proficiencies in: Athletics and Persuasion.  It provides tool proficiencies in: one type of gaming set (we will choose dice) and land vehicles.  It provides no additional languages.  It also provides Goregutz with: a uniform of his company (traveler's clothes), an insignia of his rank, a gaming set of his choice (dice), and a pouch containing the last of his wages (10gp).
+}}
+
+:
+
+{{thinLine
+  Note: It may be tempting to pick a background that provides the most mechanical bonuses, but does not make much sense with character building.  It is up to you to decide whether you value mechanical benefits or roleplay with how you design your character!
+}}
