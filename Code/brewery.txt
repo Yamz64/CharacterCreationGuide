@@ -29,7 +29,7 @@ Before creating or playing D&D 5th edition, you will need some materials.  This 
 ::
 
 {{color:DarkGreen 
-This guide not only lays out the steps to making characters in 5th edition, but provides examples.  These examples take form in a character we will create together, an orc barbarian known as Goregutz Teefgrabba, or Goregutz for short.  Don't worry if you don't completely follow everything in his examples.  A sample character sheet will be provided at the end.
+This guide not only lays out the steps to making characters in 5th edition, but provides examples.  These examples take form in a character we will create together, an Orc barbarian known as Goregutz Teefgrabba, or Goregutz for short.  Don't worry if you don't completely follow everything in his examples.  A sample character sheet will be provided at the end.
 }}
 
 {{pageNumber 1}}
@@ -214,7 +214,7 @@ If we were to pick a race for Goregutz, we could use the "Orc" race and "Mountai
 
 {{color:DarkGreen
 
-This gives him +2 Strength (17), and +1 Constitution (15).  It also gives him medium size, a movement speed of 30ft per turn, Darkvision, proficiency in the intimidation skill, the *"Relentless Endurance"* ability, the *"Savage Attacks"* ability, and the orcish language.
+This gives him +2 Strength (17), and +1 Constitution (15).  It also gives him medium size, a movement speed of 30ft per turn, Darkvision, proficiency in the intimidation skill, the *"Relentless Endurance"* ability, the *"Savage Attacks"* ability, and the Orcish language.
 
 }}
 
@@ -226,7 +226,7 @@ This gives him +2 Strength (17), and +1 Constitution (15).  It also gives him me
 
 {{color:DarkGreen
 
-Additionally, we can add some flavor to Goregutz based on his race.  Orcs (as per [*Volo's Guide to Monsters*](https://github.com/Yamz64/CharacterCreationGuide/blob/main/Handbooks/Volo's%20Guide%20to%20Monsters.pdf)) reach maturity at age 12 and can live up to 50 years.  Goregutz is a little over middle aged, so we can assume that he is around 35 years old.  Most orcs have the chaotic evil alignment.  Goregutz is like most orcs, but works as a mercenary.  He values getting paid more than simply "krumping" his enemies, so he is more of a chaotic neutral character.  While it may seem like he is tall, he is actually average among orcs, standing at around 7' 2" and weighing 250lbs.
+Additionally, we can add some flavor to Goregutz based on his race.  Orcs (as per [*Volo's Guide to Monsters*](https://github.com/Yamz64/CharacterCreationGuide/blob/main/Handbooks/Volo's%20Guide%20to%20Monsters.pdf)) reach maturity at age 12 and can live up to 50 years.  Goregutz is a little over middle aged, so we can assume that he is around 35 years old.  Most Orcs have the chaotic evil alignment.  Goregutz is like most Orcs, but works as a mercenary.  He values getting paid more than simply "krumping" his enemies, so he is more of a chaotic neutral character.  While it may seem like he is tall, he is actually average among Orcs, standing at around 7' 2" and weighing 250lbs.
 
 }}
 
@@ -267,7 +267,7 @@ Classes offer proficiencies in armor, weaponry, tools, saving throws, and a list
 Starting equipment is unique to whatever class your character is.  Some Dungeon Masters may require that you spend gold on this equipment, however.
 
 {{color:DarkGreen
-As a Barbarian, Goregutz gets access to (a) a greataxe or (b) any martial melee weapon.  In proper orcy fashion, he picks a greataxe.  He additionally gets the choise of (a) two handaxes or (b) any simple weapon.  He opts to pick a club from the simple weapons table.  Finally he gets an explorer's pack and 4 javelins.
+As a Barbarian, Goregutz gets access to (a) a greataxe or (b) any martial melee weapon.  In proper Orcy fashion, he picks a greataxe.  He additionally gets the choise of (a) two handaxes or (b) any simple weapon.  He opts to pick a club from the simple weapons table.  Finally he gets an explorer's pack and 4 javelins.
 }}
 
 :
@@ -487,7 +487,7 @@ The final step of creating a character is choosing a background.  A background i
 :
 
 {{color:DarkGreen
-Goregutz was a mercenary, so it makes most sense to pick the "Mercenary Veteran" background from the [Sword Coast Adventurer's Guide]().  This provides Goregutz with skill proficiencies in: Athletics and Persuasion.  It provides tool proficiencies in: one type of gaming set (we will choose dice) and land vehicles.  It provides no additional languages.  It also provides Goregutz with: a uniform of his company (traveler's clothes), an insignia of his rank, a gaming set of his choice (dice), and a pouch containing the last of his wages (10gp).
+Goregutz was a mercenary, so it makes most sense to pick the "Mercenary Veteran" background from the [Sword Coast Adventurer's Guide](https://github.com/Yamz64/CharacterCreationGuide/blob/main/Handbooks/Sword%20Coast%20Adventurer%20Guide.pdf) . This provides Goregutz with skill proficiencies in: Athletics and Persuasion.  It provides tool proficiencies in: one type of gaming set (we will choose dice) and land vehicles.  It provides no additional languages.  It also provides Goregutz with: a uniform of his company (traveler's clothes), an insignia of his rank, a gaming set of his choice (dice), and a pouch containing the last of his wages (10gp).
 }}
 
 :
