@@ -1,3 +1,27 @@
+<!-- Table of Contents: -->
+
+<div class='wide' style="text-align: center">
+# Contents
+</div>
+
+<div class='toc'>
+- ### [<span>Preface</span><span>1</span>](#p2)
+- ### [<span>Goregutz & Materials</span><span></span><span>1</span>](#p2)
+- ### [<span>The Character Sheet</span><span></span><span>1</span>](#p2)
+  - #### [<span>Ability Scores</span><span></span><span>1</span>](#p2)
+  - #### [<span>Saving Throws</span><span></span><span>2</span>](#p3)
+  - #### [<span>Skills</span><span></span><span>2</span>](#p3)
+- ### [<span>Race, Class, & Background</span><span></span><span>3</span>](#p4)
+  - #### [<span>Race</span><span></span><span>3</span>](#p4)
+  - #### [<span>Class</span><span></span><span>4</span>](#p5)
+    - #### [<span>Weapon and Armor Tables</span><span></span><span>5</span>](#p6)
+  - #### [<span>Background</span><span></span><span>7</span>](#p8)
+- ### [<span>Example Character Sheet</span><span></span><span>8</span>](#p9)
+- ### [<span>Blank Character Sheet</span><span></span><span>11</span>](#p12)
+</div>
+
+\page
+
 # Abridged Character Creation
 This is a quick guide to character creation for dungeons and dragons 5th addition!  While most every edition has it's benefits and drawbacks, 5th edition's strength is the ease of use and speed of generating content.  Please note that this guide is a quick and dirty way to set up characters, but not definitive.  All information found here is available in the [*2014 Player's Handbook*](https://github.com/Yamz64/CharacterCreationGuide/blob/main/Handbooks/Player's%20Handbook.pdf).  Some classes or races may not be included here or in the handbook, but are found in expansion guides, such as *Tasha's Cauldron of Everything*, or *Volo's Complete Subrace Handbook*.  If you find something that you would like to use for your character that isn't included in the core rulebooks, bring it up with your DM!
 
@@ -33,7 +57,7 @@ This guide not only lays out the steps to making characters in 5th edition, but 
 }}
 
 {{pageNumber 1}}
-{{footnote ABRIDGED CHARACTER CREATION | THE CHARACTER SHEET}}
+{{footnote PREFACE | GOREGUTZ & MATERIALS | THE CHARACTER SHEET}}
 
 ::
 
@@ -495,3 +519,46 @@ Goregutz was a mercenary, so it makes most sense to pick the "Mercenary Veteran"
 {{thinLine
   Note: It may be tempting to pick a background that provides the most mechanical bonuses, but does not make much sense with character building.  It is up to you to decide whether you value mechanical benefits or roleplay with how you design your character!
 }}
+
+{{pageNumber 7}}
+{{footnote RACE CLASS & BACKGROUND}}
+
+\page
+
+![GoregutzSheet1](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/CharacterSheets/GoregutzSheet-1.png) {width:200%,mix-blend-mode:multiply}
+
+{{pageNumber 8}}
+{{footnote EXAMPLE CHARACTER SHEET}}
+\page
+
+![GoregutzSheet2](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/CharacterSheets/GoregutzSheetImage-2.png) {width:200%,mix-blend-mode:multiply}
+
+{{pageNumber 9}}
+{{footnote EXAMPLE CHARACTER SHEET}}
+\page
+
+![GoregutzSheet3](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/CharacterSheets/GoregutzSheet-3.png) {width:200%,mix-blend-mode:multiply}
+
+{{pageNumber 10}}
+{{footnote EXAMPLE CHARACTER SHEET}}
+
+\page
+
+![Empty Sheet 1](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/CharacterSheets/DnD_5E_CharacterSheet_FormFillable-1.png) {width:200%,mix-blend-mode:multiply}
+
+{{pageNumber 11}}
+{{footnote BLANK CHARACTER SHEET}}
+
+\page
+
+![Empty Sheet 2](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/CharacterSheets/DnD_5E_CharacterSheet_FormFillable-2.png) {width:200%,mix-blend-mode:multiply}
+
+{{pageNumber 12}}
+{{footnote BLANK CHARACTER SHEET}}
+
+\page
+
+![Empty Sheet 3](https://raw.githubusercontent.com/Yamz64/CharacterCreationGuide/refs/heads/main/CharacterSheets/DnD_5E_CharacterSheet_FormFillable-3.png) {width:200%,mix-blend-mode:multiply}
+
+{{pageNumber 13}}
+{{footnote BLANK CHARACTER SHEET}}
